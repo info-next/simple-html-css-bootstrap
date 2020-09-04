@@ -135,6 +135,10 @@ html {
     border-radius: 8px;
 }
 
+.btn a {
+    color: white;
+}
+
 .btn-sm {
     padding: 7px 12px;
     vertical-align: middle;
